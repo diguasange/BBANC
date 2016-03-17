@@ -1,6 +1,6 @@
 # Baffin Bay Acoustic Navigation and Communication Project
 
-##Long-­‐Term Goal
+## Long-­‐Term Goal
 
 To truly comprehend winter Arctic waters in the manner that has been achieved in world’s more temperate oceans, autonomous
 underwater platforms (e.g., floats, gliders) require additional capability for underwater geolocation and periodic communication.
